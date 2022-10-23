@@ -1,0 +1,47 @@
+@import '../../index.scss';
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  padding: 16px 0;
+  margin-bottom: 20px;
+  box-shadow: 0 0 30px rgba(128, 128, 128, 0.8);
+  background-color: $secondary;
+
+  
+  & a {
+    text-decoration: none;
+    color: $main;
+
+    &:hover {
+      opacity: 0.8;
+    }// &:hover
+
+    &:active {
+      color: $accent;
+    }// &:active
+  }// & a
+
+  &__title {
+    font-size: 2rem;
+  }// &__title
+
+  &__nav {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+  }// .nav
+}// .header
+
+.link {
+  font-size: 1.2rem;
+  padding: 8px 0;
+}// .link
+
+.active_link {
+  font-size: 1.2rem;
+  border-bottom: 1px solid $main;
+  padding: 8px 0;
+}// .link

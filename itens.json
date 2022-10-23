@@ -1,0 +1,145 @@
+{
+  "kitchen": {
+    "k1": {
+      "name": "Fogão",
+      "image": "/images/kitchen/fogao.jpeg",
+      "isAvailable": true
+    },
+    "k2": {
+      "name": "Geladeira",
+      "image": "/images/kitchen/GELADEIRA.png",
+      "isAvailable": true
+    },
+    "k3": {
+      "name": "Microondas",
+      "image": "/images/kitchen/Microondas.png",
+      "isAvailable": true
+    },
+    "k4": {
+      "name": "Conjunto de panelas",
+      "image": "/images/kitchen/Jogo-de-Panela-PNG.png",
+      "isAvailable": true
+    },
+    "k5": {
+      "name": "Conjunto de pratos",
+      "image": "/images/kitchen/pratos.jpeg",
+      "isAvailable": true
+    },
+    "k6": {
+      "name": "Conjunto de copos",
+      "image": "/images/kitchen/copos.jpeg",
+      "isAvailable": true
+    },
+    "k7": {
+      "name": "Conjunto de talheres",
+      "image": "/images/kitchen/talheres.png",
+      "isAvailable": true
+    },
+    "k8": {
+      "name": "Conjunto de xícaras",
+      "image": "/images/kitchen/xicaras.png",
+      "isAvailable": true
+    },
+    "k9": {
+      "name": "Conjunto de potes",
+      "image": "/images/kitchen/potes.png",
+      "isAvailable": true
+    },
+    "k10": {
+      "name": "Liquidificador",
+      "image": "/images/kitchen/liquidificador.png",
+      "isAvailable": true
+    }
+  },
+  "room": {
+    "r1": {
+      "name": "Sofá",
+      "image": "/images/room/sofa.jpg",
+      "isAvailable": true
+    },
+    "r2": {
+      "name": "Televisão",
+      "image": "/images/room/tv.png",
+      "isAvailable": true
+    },
+    "r3": {
+      "name": "Rack de televisão",
+      "image": "/images/room/estante.png",
+      "isAvailable": true
+    },
+    "r4": {
+      "name": "Mesa com cadeiras",
+      "image": "/images/room/mesa.png",
+      "isAvailable": true
+    },
+    "r5": {
+      "name": "Almofadas para Sofá",
+      "image": "/images/room/almofadas.jpeg",
+      "isAvailable": true
+    }
+  },
+  "bedroom": {
+    "bd1": {
+      "name": "Cama",
+      "image": "/images/bedroom/Cama.jpg",
+      "isAvailable": true
+    },
+    "bd2": {
+      "name": "Colchão",
+      "image": "/images/bedroom/colchao.jpeg",
+      "isAvailable": true
+    },
+    "bd3": {
+      "name": "Roupa de cama",
+      "image": "/images/bedroom/roupa-de-cama.jpeg",
+      "isAvailable": true
+    },
+    "bd4": {
+      "name": "Mesa de cabeceira",
+      "image": "/images/bedroom/mesa-de-cabeceira",
+      "isAvailable": true
+    },
+    "bd5": {
+      "name": "Luminária",
+      "image": "/images/bedroom/luminaria.jpeg",
+      "isAvailable": true
+    },
+    "bd6": {
+      "name": "Armário com espelho",
+      "image": "/images/bedroom/armario.png",
+      "isAvailable": true
+    }
+  },
+  "bathroom": {
+    "bt1": {
+      "name": "Kit de pia",
+      "image": "/images/bathroom/saboneteira.jpg",
+      "isAvailable": true
+    },
+    "bt2": {
+      "name": "Kit de acessorios para banheiro",
+      "image": "/images/bathroom/acessorios.png",
+      "isAvailable": true
+    },
+    "bt3": {
+      "name": "Kit de toalhas",
+      "image": "/images/bathroom/toalha.png",
+      "isAvailable": true
+    },
+    "bt4": {
+      "name": "Kit de banheiro",
+      "image": "/images/bathroom/lixeira.jpeg",
+      "isAvailable": true
+    },
+    "bt5": {
+      "name": "Espelho",
+      "image": "/images/bathroom/mosaico-em-espelho.png",
+      "isAvailable": true
+    },
+    "bt6": {
+      "name": "Cortina de banheiro",
+      "image": "/images/bathroom/cortina-de-banheiro.jpg",
+      "isAvailable": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+@import '../../index.scss';
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  left: 0;
+  width: 100%;
+  padding: 16px;
+  box-shadow: 0 0 20px rgba(128, 128, 128, 0.8);
+  background-color: $sec-lighter;
+
+  color: $main;
+  font-size: 0.9rem;
+}// .footer
